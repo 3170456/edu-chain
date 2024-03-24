@@ -1,6 +1,7 @@
 
+**SITIO WEB EDUCHAIN (informativo e interactivo con los SmartContracts):**  https://bit.ly/EDUCHAIN-PROJECT
 
-**EDUCHAIN** es un proyecto de impacto social que tiene como objetivo proporcionar becas a estudiantes de excelencia académica con ingresos limitados. Nuestra misión es permitir que estos estudiantes con un enorme potencial puedan cambiar el rumbo de sus vidas a través del apoyo de ecosistemas descentralizados, que desde muy jóvenes tenga la experiencia de crear su Wallet y de interactuar con Blockchains, a su vez buscar que las instituciones educativas de nivel secundario y superior interactuen de manera cotidiana smart contracts en la web3 para que de forma implícita se vuelvan catalizadores de su uso desde el ámbito formativo.
+**EDUCHAIN** es un proyecto de impacto social que tiene como objetivo proporcionar becas a estudiantes de excelencia académica con ingresos limitados. Nuestra misión es permitir que estudiantes con un enorme potencial puedan cambiar el rumbo de sus vidas a través del apoyo de ecosistemas descentralizados, iniciando desde muy jóvenes la experiencia de crear su Wallet y de interactuar con Blockchains, a su vez buscar que las instituciones educativas de nivel secundario y superior interactuen de manera cotidiana smart contracts en la web3 para que de forma implícita se vuelvan catalizadores de su uso desde el ámbito formativo.
 
 **Ethereum Attestation Service (EAS) implementado en EDUCHAIN** con Despliegue en**Scroll** 
 para controlar la transparencia de los estudiantes postulados para obtener Becas autenticando la Institución Educativa, Auditores Externos, Profesores que pueden Atestar en favor del estudiante 
